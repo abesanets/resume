@@ -11,7 +11,7 @@ root.render(
   </React.StrictMode>
 );
 
-function autoScale(baseWidth = 594) {
+function autoScale(baseWidth = 598) {
 const scaleWrapper = document.getElementById('root');
   const currentWidth = window.innerWidth;
   const scale = currentWidth / baseWidth;
