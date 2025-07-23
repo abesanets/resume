@@ -38,56 +38,17 @@ body {
   font-family: var(--font-dm-sans);
   color: var(--text-medium);
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   min-height: 100vh;
   padding: var(--spacing-md);
 }
 
 .resume-container {
-  max-width: 100%;
+  min-width: 100%;
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   border-radius: 12px;
-}
-
-.browser-toolbar {
-  width: 100%;
-  height: 21px;
-  background: rgba(255, 255, 255, 0.6);
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
-  backdrop-filter: blur(20px);
-  padding: var(--spacing-xs) var(--spacing-sm);
-}
-
-.controls {
-  display: flex;
-  gap: 12px;
-}
-
-.control-btn {
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-}
-
-.close-btn {
-  background: #EE6A5F;
-  box-shadow: 0px 0px 6px #EC6D62 inset;
-  border: 0.5px #CE5347 solid;
-}
-
-.maximise-btn {
-  background: #F5BD4F;
-  box-shadow: 0px 0px 6px #F5C451 inset;
-  border: 0.5px #D6A243 solid;
-}
-
-.minimise-btn {
-  background: #61C454;
-  box-shadow: 0px 0px 6px #68CC58 inset;
-  border: 0.5px #58A942 solid;
 }
 
 .resume-content {
