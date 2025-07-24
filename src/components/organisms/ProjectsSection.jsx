@@ -63,7 +63,7 @@ const ProjectsSection = () => {
               <div className="link-icon">
                 {/* Link иконка */}
                 <img 
-                src="/public/photos/ui8_icon.png" 
+                src="/photos/ui8_icon.png" 
                 alt="Powerful Design System"
                 style={{ 
                   width: '5x', 
