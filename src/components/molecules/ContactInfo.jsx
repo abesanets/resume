@@ -1,6 +1,6 @@
 // components2/molecules/ContactInfo.jsx
 import React from 'react';
-import Icon from '../atoms/Icon';
+import Icon from '../atoms/icon';
 
 const ContactInfo = ({ iconName, label, value }) => {
   return (
