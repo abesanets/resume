@@ -11,13 +11,3 @@ root.render(
   </React.StrictMode>
 );
 
-function autoScale(baseWidth = 598) {
-const scaleWrapper = document.getElementById('root');
-  const currentWidth = window.innerWidth;
-  const scale = currentWidth / baseWidth;
-  scaleWrapper.style.transform = `scale(${scale})`;
-}
-
-// Вызываем при загрузке и при изменении размера окна
-window.addEventListener('load', () => autoScale());
-window.addEventListener('resize', () => autoScale());
