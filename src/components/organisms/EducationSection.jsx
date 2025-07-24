@@ -6,7 +6,7 @@ const EducationSection = () => {
     {
       institution: "Memorisely",
       course: "Build a design system",
-      image: "/photos/education/memorizely.png",
+      image: "/public/photos/education/memorizely.png",
       date: "Oct 2021"
     },
     {
