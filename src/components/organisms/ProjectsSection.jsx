@@ -48,7 +48,7 @@ const ProjectsSection = () => {
           <div className="project-card">
             <div className="project-header">
               <img 
-                src="/public/photos/ui8.png" 
+                src="/photos/ui8.png" 
                 alt="Modern Website" 
                 className="project-logo"
               />

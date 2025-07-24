@@ -67,7 +67,7 @@ const ExperienceSection = () => {
                   <div className="location-icon">
                     {/* Location иконка */}
                     <img 
-                      src="public/photos/companies/location.png" 
+                      src="/photos/companies/location.png" 
                       alt="Powerful Design System"
                       style={{ 
                         width: '7px', 
