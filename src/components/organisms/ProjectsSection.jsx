@@ -18,7 +18,7 @@ const ProjectsSection = () => {
           <div className="project-card">
             <div className="project-header">
               <img 
-                src="src/photos/figma.png" 
+                src="/photos/figma.png" 
                 alt="Powerful Design System" 
                 className="project-logo"
               />
@@ -33,7 +33,7 @@ const ProjectsSection = () => {
               <div className="link-icon">
                 {/* Figma иконка */}
                 <img 
-                src="src/photos/figma_icon.png" 
+                src="/photos/figma_icon.png" 
                 alt="Powerful Design System"
                 style={{ 
                   width: '6x', 
@@ -48,7 +48,7 @@ const ProjectsSection = () => {
           <div className="project-card">
             <div className="project-header">
               <img 
-                src="src/photos/ui8.png" 
+                src="/public/photos/ui8.png" 
                 alt="Modern Website" 
                 className="project-logo"
               />
@@ -63,7 +63,7 @@ const ProjectsSection = () => {
               <div className="link-icon">
                 {/* Link иконка */}
                 <img 
-                src="src/photos/ui8_icon.png" 
+                src="/public/photos/ui8_icon.png" 
                 alt="Powerful Design System"
                 style={{ 
                   width: '5x', 

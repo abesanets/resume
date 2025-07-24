@@ -10,10 +10,15 @@ const Icon = ({ name, size = 'sm' }) => {
   return (
     <div className="icon" style={iconSize}>
       {/* В реальном приложении здесь будут SVG иконки */}
-      <img src={name} alt="Email" style={{ 
-        width: '100%', 
-        height: '100%', 
-      }}/>
+      <img 
+      src={name} 
+      alt="Email" 
+      style={{
+      width: name === "/photos/contact/location.png" ? '10.5px' : '100%',
+      height: name === "/photos/contact/location.png" ? '13.5px' : '100%',
+      }} 
+      />
+
     </div>
   );
 };

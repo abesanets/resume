@@ -6,19 +6,19 @@ const EducationSection = () => {
     {
       institution: "Memorisely",
       course: "Build a design system",
-      image: "src/photos/education/memorizely.png",
+      image: "/photos/education/memorizely.png",
       date: "Oct 2021"
     },
     {
       institution: "UX academy",
       course: "UX Design certificate",
-      image: "src/photos/education/UXacademy.png",
+      image: "/photos/education/UXacademy.png",
       date: "Feb 2020"
     },
     {
       institution: "Coursera",
       course: "User research course",
-      image: "src/photos/education/couersera.png",
+      image: "/photos/education/couersera.png",
       date: "Dec 2019"
     }
   ];

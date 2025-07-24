@@ -9,7 +9,7 @@ const Sidebar = () => {
     <aside className="aside">
       <div className="profile-header">
         <img 
-          src="/src/photos/avatar.jpg" 
+          src="/photos/avatar.jpg" 
           alt="Angelo Libero" 
           className="avatar"
         />
@@ -26,22 +26,22 @@ const Sidebar = () => {
       
       <div className="info-section">
         <ContactInfo 
-          iconName="src/photos/contact/email.png"
+          iconName="/photos/contact/email.png"
           label="Email" 
           value="angelo.libero@gmail.com" 
         />
         <ContactInfo 
-          iconName="src/photos/contact/website.png" 
+          iconName="/photos/contact/website.png" 
           label="Website" 
           value="https://aldesign.it" 
         />
         <ContactInfo 
-          iconName="src/photos/contact/phone.png"  
+          iconName="/photos/contact/phone.png"  
           label="Phone" 
           value="(+39) 333 0123 765" 
         />
         <ContactInfo 
-          iconName="src/photos/contact/location.png"  
+          iconName="/photos/contact/location.png"  
           label="Address" 
           value="Bologna, Italy" 
         />
@@ -51,20 +51,20 @@ const Sidebar = () => {
       
       <div className="info-section">
         <p className="info-label">Socials</p>
-        <SocialLink platform="instagram" username="angelolibero.designs" image="src/photos/socials/insta.png"/>
-        <SocialLink platform="dribbble" username="angelolibero-designs" image="src/photos/socials/dribble.png"/>
-        <SocialLink platform="twitter" username="angeloldesigns" image="src/photos/socials/twitter.png"/>
-        <SocialLink platform="linkedin" username="angelo-libero-a42a0438" image="src/photos/socials/linkedin.png"/>
+        <SocialLink platform="instagram" username="angelolibero.designs" image="/photos/socials/insta.png"/>
+        <SocialLink platform="dribbble" username="angelolibero-designs" image="/photos/socials/dribble.png"/>
+        <SocialLink platform="twitter" username="angeloldesigns" image="/photos/socials/twitter.png"/>
+        <SocialLink platform="linkedin" username="angelo-libero-a42a0438" image="/photos/socials/linkedin.png"/>
       </div>
       
       <Divider />
       
       <div className="info-section">
         <p className="info-label">Languages</p>
-        <LanguageItem language="Italian" level="Native" image="src/photos/flags/italian.png"/>
-        <LanguageItem language="Greek" level="Native" image="src/photos/flags/greek.png"/>
-        <LanguageItem language="English" level="Professional working" image="src/photos/flags/english.png"/>
-        <LanguageItem language="Spanish" level="Elementary" image="src/photos/flags/spanish.png"/>
+        <LanguageItem language="Italian" level="Native" image="/photos/flags/italian.png"/>
+        <LanguageItem language="Greek" level="Native" image="/photos/flags/greek.png"/>
+        <LanguageItem language="English" level="Professional working" image="/photos/flags/english.png"/>
+        <LanguageItem language="Spanish" level="Elementary" image="/photos/flags/spanish.png"/>
       </div>
     </aside>
   );

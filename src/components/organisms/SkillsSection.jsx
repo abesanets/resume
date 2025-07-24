@@ -20,7 +20,7 @@ const SkillsSection = () => {
               <div className="category-icon">
                 {/* Design иконка */}
                 <img 
-                src="src/photos/skills/paint.png" 
+                src="/photos/skills/paint.png" 
                 alt="Powerful Design System"
                 style={{ 
                   width: '8px', 
@@ -66,7 +66,7 @@ const SkillsSection = () => {
               <div className="category-icon blue">
                 {/* Development иконка */}                
                 <img 
-                src="src/photos/skills/dev.png" 
+                src="/photos/skills/dev.png" 
                 alt="Powerful Design System"
                 style={{ 
                   width: '6.67px', 

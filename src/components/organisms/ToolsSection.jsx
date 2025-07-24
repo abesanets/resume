@@ -4,17 +4,17 @@ import React from 'react';
 const ToolsSection = () => {
   const tools = [
     [
-      { name: "Figma", description: "UI Design, prototyping", image: "src/photos/tools/figma.png" },
-      { name: "Maze", description: "Product research", image: "src/photos/tools/maze.png" },
-      { name: "Spline", description: "3D design", image: "src/photos/tools/spline.png" },
-      { name: "Zeplin", description: "Design workspace", image: "src/photos/tools/zeplin.png" }
+      { name: "Figma", description: "UI Design, prototyping", image: "/photos/tools/figma.png" },
+      { name: "Maze", description: "Product research", image: "/photos/tools/maze.png" },
+      { name: "Spline", description: "3D design", image: "/photos/tools/spline.png" },
+      { name: "Zeplin", description: "Design workspace", image: "/photos/tools/zeplin.png" }
     ],
     [
-      { name: "Vectornator", description: "Graphic Design", image: "src/photos/tools/vectonator.png" },
-      { name: "Rotato", description: "Mockups", image: "src/photos/tools/rotato.png" },
-      { name: "VS Code", description: "Code editor", image: "src/photos/tools/VScode.png" },
-      { name: "Xcode", description: "iOS development", image: "src/photos/tools/Xcode.png" },
-      { name: "Notion", description: "Project managment", image: "src/photos/tools/notion.png" }
+      { name: "Vectornator", description: "Graphic Design", image: "/photos/tools/vectonator.png" },
+      { name: "Rotato", description: "Mockups", image: "/photos/tools/rotato.png" },
+      { name: "VS Code", description: "Code editor", image: "/photos/tools/vscode.png" },
+      { name: "Xcode", description: "iOS development", image: "/photos/tools/xcode.png" },
+      { name: "Notion", description: "Project managment", image: "/photos/tools/notion.png" }
     ]
   ];
   

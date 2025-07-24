@@ -7,7 +7,7 @@ const ExperienceSection = () => {
       period: "Jul 20 - Jan 2022",
       location: "Cupertino",
       company: "Apple",
-      image: "/src/photos/companies/apple.png",
+      image: "/photos/companies/apl.png",
       role: "Product designer",
       description: "Omnis minima inventore minus. Aut et incidunt. Aut fugiat culpa illum optio dolorum aut maxime ipsa. Laborum incidunt enim consectetur perspiciatis. Dolore ullam dolor impedit dolorum recusandae facilis quo et. Et ipsam vel sunt qui ut officia voluptatem."
     },
@@ -15,7 +15,7 @@ const ExperienceSection = () => {
       period: "Oct 2015 - Mar 2020",
       location: "Austin",
       company: "Tesla",
-      image: "/src/photos/companies/tesla.png",
+      image: "/photos/companies/tesla.png",
       role: "UX designer",
       description: "Commodi atque sit ut qui assumenda earum aperiam occaecati voluptates. Fuga quas aut soluta nostrum et beatae. Maiores repudiandae quibusdam autem enim ut in possimus ad."
     },
@@ -23,7 +23,7 @@ const ExperienceSection = () => {
       period: "Sep 2014 - Aug 2015",
       location: "Mountain View",
       company: "Google",
-      image: "/src/photos/companies/google.png",
+      image: "/photos/companies/google.png",
       role: "Design system architect",
       description: "Ut molestias animi. Neque voluptate velit corporis adipisci voluptate et qui sed neque. Inventore eos non. Qui eveniet quo incidunt nemo."
     },
@@ -31,7 +31,7 @@ const ExperienceSection = () => {
       period: "Sep 2010 - Jul 2013",
       location: "Berlin",
       company: "Vectornator",
-      image: "/src/photos/companies/penchuk.png",
+      image: "/photos/companies/penchuk.png",
       role: "Design system architect",
       description: "Non in fugiat aut consequatur deleniti. Consequuntur impedit modi asperiores impedit ut ea aut eligendi doloremque. Fugit laborum ducimus hic tempore velit. Sed vitae et corrupti omnis temporibus. Unde voluptas quaerat ea rerum aspernatur autem assumenda animi fugit. Omnis laborum velit voluptatum similique accusantium eveniet voluptatem."
     }
@@ -67,11 +67,11 @@ const ExperienceSection = () => {
                   <div className="location-icon">
                     {/* Location иконка */}
                     <img 
-                      src="src/photos/companies/location.png" 
+                      src="public/photos/companies/location.png" 
                       alt="Powerful Design System"
                       style={{ 
-                        width: '3.5px', 
-                        height: '4.5px'
+                        width: '7px', 
+                        height: '9px'
                       }} 
                     />
                   </div>
