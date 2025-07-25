@@ -28,8 +28,8 @@ const SocialLink = ({ platform, username, image }) => {
     <div className="social-row">
       <div className={`social-icon ${bg}`}>
           <img src={image} alt={username} style={{
-          width: 10, 
-          height: 10
+          width: 20, 
+          height: 20
           }}/>
       </div>
       <div className="info-text">

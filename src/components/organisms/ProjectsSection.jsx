@@ -36,8 +36,8 @@ const ProjectsSection = () => {
                 src="/photos/figma_icon.png" 
                 alt="Powerful Design System"
                 style={{ 
-                  width: '6x', 
-                  height: '7.5px'
+                  width: '12x', 
+                  height: '15px'
                 }} 
               />
               </div>
@@ -66,8 +66,8 @@ const ProjectsSection = () => {
                 src="/photos/ui8_icon.png" 
                 alt="Powerful Design System"
                 style={{ 
-                  width: '5x', 
-                  height: '5px'
+                  width: '12x', 
+                  height: '12px'
                 }} 
               />
               </div>

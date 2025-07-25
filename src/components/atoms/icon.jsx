@@ -2,9 +2,9 @@
 
 const Icon = ({ name, size = 'sm' }) => {
   const iconSize = {
-    sm: { width: 10, height: 10 },
-    md: { width: 12, height: 12 },
-    lg: { width: 16, height: 16 }
+    sm: { width: 20, height: 20 },
+    md: { width: 22, height: 22 },
+    lg: { width: 24, height: 24 }
   }[size];
   
   return (
@@ -14,8 +14,8 @@ const Icon = ({ name, size = 'sm' }) => {
       src={name} 
       alt="Email" 
       style={{
-      width: name === "/photos/contact/location.png" ? '10.5px' : '100%',
-      height: name === "/photos/contact/location.png" ? '13.5px' : '100%',
+      width:'100%',
+      height:'100%',
       }} 
       />
 

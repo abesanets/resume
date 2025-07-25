@@ -23,8 +23,8 @@ const SkillsSection = () => {
                 src="/photos/skills/paint.png" 
                 alt="Powerful Design System"
                 style={{ 
-                  width: '8px', 
-                  height: '8px', 
+                  width: '16px', 
+                  height: '16px', 
                   borderRadius: '50%'
                 }} 
               />
@@ -69,8 +69,8 @@ const SkillsSection = () => {
                 src="/photos/skills/dev.png" 
                 alt="Powerful Design System"
                 style={{ 
-                  width: '6.67px', 
-                  height: '4.01px', 
+                  width: '13.34px', 
+                  height: '8.02px', 
                 }} 
               />
               </div>
