@@ -1,7 +1,7 @@
 # 🚀 Interactive Resume
 
 A modern **interactive resume** built with **HTML, CSS, and React**.  
-Designed with **atomic design principles**, smooth **animations**, and a clean **2D minimalistic style**.  
+Designed with **atomic design principles**, smooth **animations**, and a clean **impressive style**.  
 
 🔗 **Live Demo:** [resume-x18j.onrender.com](https://resume-x18j.onrender.com/)
 
