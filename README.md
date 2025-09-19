@@ -1,12 +1,26 @@
-# React + Vite
+# 🚀 Interactive Resume
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **interactive resume** built with **HTML, CSS, and React**.  
+Designed with **atomic design principles**, smooth **animations**, and a clean **2D minimalistic style**.  
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [resume-x18j.onrender.com](https://resume-x18j.onrender.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 🎨 **Minimalist UI** with smooth animations  
+- ⚛️ **Atomic design structure** for reusable components  
+- 📱 **Responsive layout** for all devices  
+- ⚡ **Fast and lightweight** deployment on Render  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+</p>
+
